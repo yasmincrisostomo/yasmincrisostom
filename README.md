@@ -1,8 +1,12 @@
-### Hello! I'm Yasmin, welcome to my Github profile! 👋🏼
-### Full-Stack Web Developer
-------------------------------------
+<h2>Hello! I'm Yasmin, welcome to my Github profile! 👋🏼</h2>
+<h4>Full-Stack Web Developer</h4>
+<h5>Ruby on Rails</h5>
 
-### <li>Skills:</li>
+* 📍 São Paulo, Brazil
+* 💻 Student at Le Wagon (9-week coding bootcamp) 
+* 📩 Contact: crisostomyasmin@gmail.com
+
+<h5><li>Skills:</li></h5>
 
 <p align="left">
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
@@ -18,7 +22,9 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-
+![Snake animation](https://github.com/seu-usuário-aqui/yasmincrisostom/blob/output/github-contribution-grid-snake.svg)
+  
+  
 <!--
 **yasmincrisostom/yasmincrisostom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
