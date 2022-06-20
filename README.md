@@ -3,7 +3,7 @@
 <h5>Ruby on Rails</h5>
 
 * 📍 São Paulo, Brazil
-* 💻 Student at Le Wagon (9-week coding bootcamp) 
+* 💻 Le Wagon alumni (Batch #898 - Web Development)
 * 📩 Contact: crisostomyasmin@gmail.com
 
 <h5><li>Skills:</li></h5>
