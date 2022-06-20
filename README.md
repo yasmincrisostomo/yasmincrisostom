@@ -22,7 +22,16 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
   
-  
+<h5><li>My stats:</li></h5>
+<br>
+  <div align="center">
+  <a href="https://github.com/yasmincrisostom/">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yasmincrisostom&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmincrisostom&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+<br>
+<hr>
+
 <!--
 **yasmincrisostom/yasmincrisostom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
