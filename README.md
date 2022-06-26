@@ -5,7 +5,7 @@
 * 💻 Le Wagon alumni (Batch #898 - Web Development)
 * 📩 Contact: crisostomyasmin@gmail.com
 
-<h5><li>Skills:</li></h5>
+<h4><li>Skills:</li></h4>
   
   <div align="center">
   
@@ -24,27 +24,9 @@
  
   </div>
   
-<h5><li>Stats:</li></h5>
+<h4><li>Stats:</li></h4>
  <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yasmincrisostom&theme=material-palenight&show_icons=true"/>
 </div>
 <br>
 <hr>
-
-  
-##
-
-<!--
-**yasmincrisostom/yasmincrisostom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
