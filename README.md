@@ -1,6 +1,5 @@
-<h2>Hello! I'm Yasmin, welcome to my Github profile! 👋🏼</h2>
-<h4>Full-Stack Web Developer</h4>
-<h5>Ruby on Rails</h5>
+<h2>Hello! I'm Yasmin! 👋🏼</h2>
+<h3>Full-Stack Developer</h3>
 
 * 📍 São Paulo, Brazil
 * 💻 Le Wagon alumni (Batch #898 - Web Development)
@@ -25,12 +24,9 @@
  
   </div>
   
-<h5><li>My stats:</li></h5>
-<br>
-  <div align="center">
-  <a href="https://github.com/yasmincrisostom/">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yasmincrisostom&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmincrisostom&layout=compact&langs_count=7&theme=tokyonight"/>
+<h5><li>Stats:</li></h5>
+ <div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yasmincrisostom&theme=material-palenight&show_icons=true"/>
 </div>
 <br>
 <hr>
