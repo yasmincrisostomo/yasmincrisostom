@@ -1,9 +1,9 @@
 <h2>Hello! I'm Yasmin! 👋🏼</h2>
 <h3>Full-Stack Developer</h3>
 
-* 📍 São Paulo, Brazil
-* 💻 Le Wagon alumni (Batch #898 - Web Development)
-* 📩 Contact: crisostomyasmin@gmail.com
+* São Paulo, Brazil
+* Le Wagon alumni (Batch #898 - Web Development)
+* Contact: crisostomyasmin@gmail.com
 
 <h4><li>Skills:</li></h4>
   
