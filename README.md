@@ -10,7 +10,7 @@
   <div align="center">
   
   ![image](https://img.shields.io/badge/Ruby-7C80A6?style=for-the-badge&logo=ruby&logoColor=white)
-  ![image](https://img.shields.io/badge/Rails-7C80A6?style=for-the-badge&logo=html5&logoColor=white)
+  ![image](https://img.shields.io/badge/Rails-7C80A6?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
   ![image](https://img.shields.io/badge/PostgreSQL-7C80A6?style=for-the-badge&logo=postgresql&logoColor=white)
   ![image](https://img.shields.io/badge/JavaScript-7C80A6?style=for-the-badge&logo=javascript&logoColor=white)
   ![image](https://img.shields.io/badge/Node.js-7C80A6?style=for-the-badge&logo=nodedotjs&logoColor=white)
