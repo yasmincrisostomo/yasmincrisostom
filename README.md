@@ -5,7 +5,7 @@
 * Le Wagon alumni (Batch #898 - Web Development)
 * Contact: crisostomyasmin@gmail.com
 
-<h4><li>Skills:</li></h4>
+<h4>Skills:</h4>
   
   <div align="center">
   
@@ -23,7 +23,8 @@
 
   </div>
   
-<h4><li>Stats:</li></h4>
+<h4>Stats:</h4>
+
  <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yasmincrisostom&theme=material-palenight&show_icons=true"/>
   <br>
