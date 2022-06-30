@@ -39,7 +39,12 @@
  <div align="center">
   <a href="https://www.linkedin.com/in/yasmin-crisostomo-45baa9237/"><img src="https://img.shields.io/badge/LinkedIn-7C80A6?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  <a href="https://www.instagram.com/yasmincrisostom/"><img src="https://img.shields.io/badge/Instagram-7C80A6?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  
+ 
+ <br>
+ <br>
+ <br>
+ 
+ ![](https://komarev.com/ghpvc/?username=yasmincrisostom&color=7C80A6&style=for-the-badge)
+ 
  </div>
-<br>
 <hr>
