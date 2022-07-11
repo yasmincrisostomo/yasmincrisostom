@@ -1,9 +1,10 @@
 <h2>Hello! I'm Yasmin! 👋🏼</h2>
 <h3>Full-Stack Developer</h3>
 
-* São Paulo, Brazil
-* Le Wagon alumni (Batch #898 - Web Development)
-* Contact: crisostomyasmin@gmail.com
+* 📍 I'm based in São Paulo, Brazil
+* 🔭 I’m currently working on a Twitter clone with Ruby on Rails 7
+* 💻 Le Wagon alumni (Batch #898 - Web Development)
+* 📩 You can contact me at: crisostomyasmin@gmail.com
 
 <h4>Skills:</h4>
   
