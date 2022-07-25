@@ -2,7 +2,6 @@
 <h3>Full-Stack Developer</h3>
 
 * 📍 I'm based in São Paulo, Brazil
-* 🔭 I’m currently working on a Twitter clone with Ruby on Rails 7
 * 💻 Le Wagon alumni (Batch #898 - Web Development)
 * 📩 You can contact me at: crisostomyasmin@gmail.com
 
