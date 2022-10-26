@@ -46,7 +46,5 @@
  <br>
  <br>
  
- ![](https://komarev.com/ghpvc/?username=yasmincrisostom&color=7C80A6&style=for-the-badge)
- 
  </div>
 <hr>
