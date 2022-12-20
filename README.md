@@ -1,7 +1,7 @@
 <h2>Hello! I'm Yasmin! 👋🏼</h2>
 <h3>Back-end Developer</h3>
 
-* 📍 I'm based in São Paulo, Brazil
+* 📍 I'm based in Montreal, Canada
 * 💻 Le Wagon alumni (Batch #898 - Web Development)
 * 📩 You can contact me at: crisostomyasmin@gmail.com
 
@@ -21,7 +21,7 @@
 
   </div>
   
-<h4>Stats:</h4>
+<!-- <h4>Stats:</h4>
 
  <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yasmincrisostom&theme=material-palenight&show_icons=true"/>
@@ -29,7 +29,7 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasmincrisostom&theme=material-palenight"/>
  
- </div>
+ </div> -->
  
   <h4>Social Media:</h4>
 
