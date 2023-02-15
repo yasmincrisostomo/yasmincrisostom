@@ -1,7 +1,7 @@
 <h2>Hello! I'm Yasmin! 👋🏼</h2>
 <h3>Back-end Developer</h3>
 
-* 📍 I'm based in Montreal, Canada
+* 📍 I'm based in São Paulo, Brazil
 * 💻 Le Wagon alumni (Batch #898 - Web Development)
 * 📩 You can contact me at: crisostomyasmin@gmail.com
 
