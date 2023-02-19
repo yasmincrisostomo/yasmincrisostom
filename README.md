@@ -1,7 +1,7 @@
 <img align="right" src="photo.svg" width="300" />
 <h1 align="center">Hi! I'm Yasmin 🚩</h1>
 
-<h4 align="center">Software Developer </h4>
+<h4 align="center">Software Developer</h4>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yasmin-crisostomo-45baa9237/"><img src="https://img.shields.io/badge/LinkedIn-850000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -13,7 +13,7 @@
 - 📩 Contact: crisostomyasmin@gmail.com
 
 
-## Skills
+<h3>Tech Stack:</h3>
   
   <div align="center">
     
@@ -22,5 +22,13 @@
   ![image](https://img.shields.io/badge/MongoDB-850000?style=for-the-badge&logo=mongodb&logoColor=white)
   ![image](https://img.shields.io/badge/PostgreSQL-850000?style=for-the-badge&logo=postgresql&logoColor=white)
   ![image](https://img.shields.io/badge/Heroku-850000?style=for-the-badge&logo=heroku&logoColor=white)
+  
+  </div>
+  
+<h3>Stats:</h3>
+  
+  <div align="center">
+    
+   ![Yasmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasmincrisostom&theme=aura_dark&show_icons=true)
   
   </div>
