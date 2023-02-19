@@ -24,11 +24,9 @@
   ![image](https://img.shields.io/badge/Heroku-850000?style=for-the-badge&logo=heroku&logoColor=white)
   
   </div>
-  
-<h3>Stats:</h3>
-  
+  <br>
   <div align="center">
     
-   ![Yasmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasmincrisostom&theme=aura_dark&show_icons=true)
+   ![Yasmin's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=yasmincrisostom&hide=html&theme=moltack&show_icons=true&hide_progress=true)
   
   </div>
