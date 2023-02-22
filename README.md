@@ -9,7 +9,7 @@
 </p>
 
 - 📍 São Paulo, Brazil
-- 💻 <a href="https://www.lewagon.com/">Le Wagon</a> alumni
+- 💻 <a href="https://www.lewagon.com/" target="_blank">Le Wagon</a> alumni
 - 📩 Contact: crisostomyasmin@gmail.com
 
 
