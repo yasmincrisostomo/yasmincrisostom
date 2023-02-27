@@ -9,7 +9,7 @@
 </p>
 
 - 📍 São Paulo, Brazil
-- 💻 Le Wagon alumni (Batch #898 - Web Development)
+- 💻 <a href="https://www.lewagon.com/">Le Wagon</a> alumni (Batch #898 - Web Development)
 - 📩 Contact: crisostomyasmin@gmail.com
 
 
